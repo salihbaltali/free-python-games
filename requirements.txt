@@ -12,3 +12,4 @@ sphinx
 tox
 twine
 wheel
+test***
